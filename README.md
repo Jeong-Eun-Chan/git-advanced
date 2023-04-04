@@ -23,6 +23,7 @@
 
 
 
+7-work-processes
 
  ## 작업 프로세스
  > 공동 작업을 할 때는 다음과 같은 프로세스로 진행한다.
@@ -36,3 +37,4 @@
 5. 원격 저장소에서 Pull Request(Merge Request)를 생성한다.
 6. 코드 리뷰를 받는다(선택).
 7. PR(Pull Request)를 마무리 한다(머지). 
+
