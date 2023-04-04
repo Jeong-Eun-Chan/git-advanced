@@ -18,3 +18,5 @@
 3. 다른 브랜치로 전환하기
  -`git checkout 브랜치명`
  -`git switch 브랜치명`
+4. 브랜치 만들고, 전환까지 동시에 하기
+ -`git checkout -b 브랜치명`
