@@ -54,4 +54,9 @@
 -`git reset`을 사용하면 현재 체크아웃한 브랜치의 원하는  과거 커밋으로 HEAD를 이동시키고, 그 이후의 커밋들은 모두 버릴 수 있습니다.  
   원치 않는 커밋을 되돌릴 때 유용한 명령어입니다. 
   - [참고 자료](https://violet-bora-lee.github.io/git-tutorial/#reset)
-  
+
+
+ ### git revert
+ -이미 push되어서 팀원간에 공유되고 있는 커밋을 되돌릴 땐 `git reset`을 사용할 수 없습니다. 대신 `git revert`를 사용해야 합니다.
+
+ -`git revert`를 입력하면 되돌리려고 하는 커밋 안에 있는 작업을 삭제해주는 새로운 커밋이 만들어집니다. 
